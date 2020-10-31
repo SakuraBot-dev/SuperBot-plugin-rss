@@ -1,0 +1,17 @@
+{
+  "name": "RSS订阅器",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "涂山苏苏",
+  "license": "Apache-2.0",
+  "packagename": "xyz.imoe.rss",
+  "devDependencies": {
+    "@types/node": "^14.14.6"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "rss-parser": "^3.9.0"
+  }
+}
